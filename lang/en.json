@@ -5,21 +5,21 @@
     "datarestored": "Previously stored data successfully retrieved.",
     "greyuser": "Only bouncers and up can run a bot.",
     "bouncer": "The bot can't move people when it's run as a bouncer.",
-    "online": "/me %%BOTNAME%% v%%VERSION%% online!",
+    "online": "/me HCPBot is now online!",
 
 
     "welcome": "/me Welcome %%NAME%%",
     "welcomeback": "/me Welcome back, %%NAME%%",
-    "songknown": "/me @%%NAME%%, this song is in the DJ history.",
-    "timelimit": "/me @%%NAME%%, your song is longer than %%MAXLENGTH%% minutes, you need permission to play longer songs.",
+    "songknown": "/me @%%NAME%%, this song has been played recently.",
+    "timelimit": "/me @%%NAME%%, this song is too loud. You need to be given permission to play songs longer than 7 minutes.",
     "permissionownsong": "/me :up: @%%NAME%% has permission to play their own production!",
     "isblacklisted": "/me This track is on the %%BLACKLIST%% blacklist! Skipping...",
 
 
-    "isopen": "/me The roulette is now open! Type !join to participate!",
-    "winnerpicked": "/me A winner has been picked! @%%NAME%% to position %%POSITION%%.",
+    "isopen": "/me The roulette is now open! Type !join to participate for a chance to be moved to the first position... or the last!",
+    "winnerpicked": "/me A roulette winner has been picked! @%%NAME%% has been moved to position %%POSITION%%.",
 
-    "ball": "/me %%NAME%%'s question was: \"%%QUESTION%%\" and %%BOTNAME%%'s response is: \"%%RESPONSE%%\"",
+    "ball": "/me %%NAME%% asked \"%%QUESTION%%\" and my response is: \"%%RESPONSE%%\"",
 
     "notghosting": "[%%NAME1%%] %%NAME2%% is not ghosting.",
     "ghosting": "[%%NAME1%%] %%NAME2%% is either ghosting or not here.",
